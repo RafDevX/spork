@@ -1,3 +1,3 @@
 # spork
 
-Template for projects using TypeScript, React and Express
+Template for projects using TypeScript, Create React App and NodeJS with Express
