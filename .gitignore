@@ -1,6 +1,7 @@
 .vscode/
 node_modules/
 dist/
+docs/
 .env
 .wakatime-project
 .DS_Store

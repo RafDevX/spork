@@ -11,6 +11,7 @@
 		"watch:server": "nodemon --watch ./dist .",
 		"start": "npm-run-all --print-label build --parallel watch:build watch:server",
 		"prettier": "prettier --write .",
+		"docs": "jsdoc -c .jsdocrc.json",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {

@@ -1,0 +1,11 @@
+{
+	"source": {
+		"include": ["."],
+		"exclude": ["node_modules", "dist", "docs"],
+		"includePattern": ".+\\.tsx?$"
+	},
+	"opts": {
+		"destination": "./docs",
+		"recurse": true
+	}
+}
