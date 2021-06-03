@@ -1,2 +1,3 @@
-# Matchmaker
-Assign people into groups according to personal preferences
+# spork
+
+Template for projects using TypeScript, React and Express
