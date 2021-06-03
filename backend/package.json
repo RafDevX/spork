@@ -1,7 +1,7 @@
 {
-	"name": "matchmaker-backend",
+	"name": "package-name-here",
 	"version": "0.1.0",
-	"description": "Main logic for the Matchmaker project.",
+	"description": "FIXME: update description!!!",
 	"main": "dist/index.js",
 	"scripts": {
 		"clean": "rm -rf ./dist",
@@ -14,19 +14,17 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/RafDevX/Matchmaker.git"
+		"url": "git+https://github.com/RafDevX/FIXME:REPO_HERE!!.git"
 	},
 	"keywords": [
-		"matchmaker",
-		"stable-roommates",
-		"irving"
+		"TODO: add keywords"
 	],
 	"author": "Rafael Oliveira",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/RafDevX/Matchmaker/issues"
+		"url": "https://github.com/RafDevX/FIXME:REPO_HERE!!!/issues"
 	},
-	"homepage": "https://github.com/RafDevX/Matchmaker#readme",
+	"homepage": "https://github.com/RafDevX/FIXME:REPO_HERE!!!#readme",
 	"dependencies": {
 		"dotenv": "^10.0.0",
 		"express": "^4.17.1"
