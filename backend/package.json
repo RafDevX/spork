@@ -1,0 +1,27 @@
+{
+  "name": "matchmaker-backend",
+  "version": "0.1.0",
+  "description": "Main logic for the Matchmaker project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafDevX/Matchmaker.git"
+  },
+  "keywords": [
+    "matchmaker",
+    "stable-roommates",
+    "irving"
+  ],
+  "author": "Rafael Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafDevX/Matchmaker/issues"
+  },
+  "homepage": "https://github.com/RafDevX/Matchmaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
