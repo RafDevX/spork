@@ -1,6 +1,7 @@
 {
-	"name": "matchmaker-frontend",
+	"name": "package-name-here-frontend",
 	"version": "0.1.0",
+	"description": "FIXME: update description!!!",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.13.0",
