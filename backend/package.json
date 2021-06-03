@@ -23,5 +23,8 @@
   "homepage": "https://github.com/RafDevX/Matchmaker#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.7"
   }
 }
